@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { data } from './data';
 import { DataGrid } from '@mui/x-data-grid';
 
-const url = 'http://localhost:8430/find';
+const url = 'https://material-table-backend.herokuapp.com/find';
 
 const Table = () => {
 

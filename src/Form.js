@@ -19,7 +19,7 @@ import {
 //     useFormContext,
 // } from "react-hook-form";
 
-const url = 'http://localhost:8430/students';
+const url = 'https://material-table-backend.herokuapp.com/students';
 
 const Form = () => {
 
